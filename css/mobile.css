@@ -1,0 +1,69 @@
+@media screen and (max-width: 767px){
+	img {
+		max-width: 100%;
+	}
+	.header_links {
+		display: none;
+	}
+	* {
+		max-width: 100%;
+	}
+	.block_logos {
+		display: flex;
+		flex-direction: column;
+		height: auto;
+		align-items: center;
+	}
+	.mainblock_logos {
+		height: auto;
+	}
+	.mainblock_workproc {
+		height: auto;
+	}
+	.block_form1 {
+		display: block;
+	}
+	.mainblock_form {
+		height: 725px;
+	}
+	.block2 {
+		flex-direction: column;
+	}
+	.onunder_header {
+		height: 400px;
+		margin: 0;
+	}
+	.hulf1_of_skills {
+		padding: 0;
+		width: 100%;
+	}
+	.mainblock_skills {
+		flex-direction: column;
+	}
+	.mainblock_skills img {
+		width: 100%;
+	}
+	.mainblock_services {
+		height: auto;
+		margin-top: 0;
+	}
+	.block_services {
+		flex-direction: column;
+	}
+	.miniblock_services  {
+		height: 185px;
+	}
+	.block_workimg a {
+		width: 100%;
+	}
+	.block_workimg {
+		flex-direction: column;
+	}
+	.mainblock_workimg {
+		height: 2000px;
+	}
+	.mainblock_result {
+		flex-direction: column;
+	}
+}
+	
